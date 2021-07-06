@@ -8,4 +8,5 @@ import { Component, VERSION } from '@angular/core';
 export class AppComponent  {
   title = 'Tour of Heroes';
 
+  
 }
